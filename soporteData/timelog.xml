@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<timeLogEntries>
+  <time id="1" path="/Process Dashboard" start="@1395584393660" delta="13" />
+  <time id="2" path="/Process Dashboard/Apreder a usar dashboard" start="@1395586233110" delta="17" comment="" />
+  <time id="3" path="/Process Dashboard/Apreder a usar dashboard" start="@1395589642810" delta="5" />
+  <time id="4" path="/Process Dashboard/Apreder a usar dashboard" start="@1395591296922" delta="6" />
+  <time id="5" path="/Process Dashboard/Apreder a usar dashboard" start="@1395592195489" delta="2" />
+  <time id="6" path="/Process Dashboard/Apreder a usar dashboard" start="@1395593090365" delta="24" />
+  <time id="7" path="/Process Dashboard/Apreder a usar dashboard" start="@1395608588834" delta="13" interrupt="11" />
+  <time id="8" path="/Process Dashboard/Apreder a usar dashboard" start="@1395610273604" delta="2" interrupt="4" />
+  <time id="9" path="/Process Dashboard/Apreder a usar dashboard" start="@1395618501770" delta="3" />
+  <time id="10" path="/Process Dashboard/Apreder a usar dashboard" start="@1395618730475" delta="23" />
+  <time id="11" path="/Process Dashboard/Apreder a usar dashboard" start="@1395620586179" delta="36" />
+  <time id="12" path="/Process Dashboard/Apreder a usar dashboard" start="@1395634757656" delta="5" />
+  <time id="13" path="/Process Dashboard/Apreder a usar dashboard" start="@1395636178011" delta="12" />
+  <time id="14" path="/Proyecto de Prueba/Legacy/Product1/SCR 42/Planning" start="@1395636968936" delta="594" />
+  <time id="15" path="/Process Dashboard/Escribir manual de uso de dashboard" start="@1395672647205" delta="13" />
+  <time id="16" path="/Process Dashboard/Apreder a usar dashboard" start="@1395673403147" delta="4" />
+  <time id="17" path="/Process Dashboard/Apreder a usar dashboard" start="@1395674576319" delta="17" />
+  <time id="18" path="/Process Dashboard/Apreder a usar dashboard" start="@1395679181839" delta="26" />
+  <time id="19" path="/Process Dashboard/Apreder a usar dashboard" start="@1395681350328" delta="1" />
+  <time id="20" path="/Process Dashboard/Apreder a usar dashboard" start="@1395683787696" delta="18" interrupt="4" />
+  <time id="21" path="/Process Dashboard/Apreder a usar dashboard" start="@1395687900586" delta="18" />
+  <time id="22" path="/Git/Escribir manual" start="@1395689018552" delta="26" />
+  <time id="23" path="/Process Dashboard/conectar git con process dashboard" start="@1395694436017" delta="11" />
+  <time id="24" path="/reuniones de equipo/reunion plan" start="@1395700915169" delta="106" />
+</timeLogEntries>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Environment" inj="Planning" rem="Planning" ft="0.3" fd="" desc="bug de prueba" date="@1395658955568" />
+</defectLog>

@@ -1,0 +1,62 @@
+#include <dataFile.txt>
+Git/Agregar usuarios al grupo/Time==0.0
+Git/Agregar usuarios al grupo/leaf==TAG
+Git/Agregar usuarios al grupo/node==TAG
+Git/Escribir manual/Started=@1395689018552
+Git/Escribir manual/Time==26.0
+Git/Escribir manual/leaf==TAG
+Git/Escribir manual/node==TAG
+Git/Started=@1395689018552
+Git/aprender a usarlo/Time==0.0
+Git/aprender a usarlo/leaf==TAG
+Git/aprender a usarlo/node==TAG
+Git/node==TAG
+No Proyecto/Time==0.0
+No Proyecto/leaf==TAG
+No Proyecto/node==TAG
+Process Dashboard/Apreder a usar dashboard/Estimated Time=240.0
+Process Dashboard/Apreder a usar dashboard/Started=@1395586233110
+Process Dashboard/Apreder a usar dashboard/Time==232.0
+Process Dashboard/Apreder a usar dashboard/leaf==TAG
+Process Dashboard/Apreder a usar dashboard/node==TAG
+Process Dashboard/Escribir manual de uso de dashboard/Estimated Time=60.0
+Process Dashboard/Escribir manual de uso de dashboard/Started=@1395672647205
+Process Dashboard/Escribir manual de uso de dashboard/Time==13.0
+Process Dashboard/Escribir manual de uso de dashboard/leaf==TAG
+Process Dashboard/Escribir manual de uso de dashboard/node==TAG
+Process Dashboard/Estimated Time=300.0
+Process Dashboard/Started=@1395584393660
+Process Dashboard/TST_templateTaskCalendar==0.0
+Process Dashboard/Team_Note="<note timestamp='@1395584983768' format='text'>Aprender a usar dashboard</note>
+Process Dashboard/Time==13.0
+Process Dashboard/conectar git con process dashboard/Estimated Time=60.0
+Process Dashboard/conectar git con process dashboard/Started=@1395694436017
+Process Dashboard/conectar git con process dashboard/Time==11.0
+Process Dashboard/conectar git con process dashboard/leaf==TAG
+Process Dashboard/conectar git con process dashboard/node==TAG
+Process Dashboard/node==TAG
+Proyecto de Prueba/Legacy/Product1/Started=@1395636968936
+Proyecto de Prueba/Legacy/Product1/node==TAG
+Proyecto de Prueba/Legacy/Product2/Time==0.0
+Proyecto de Prueba/Legacy/Product2/leaf==TAG
+Proyecto de Prueba/Legacy/Product2/node==TAG
+Proyecto de Prueba/Legacy/Started=@1395636968936
+Proyecto de Prueba/Legacy/node==TAG
+Proyecto de Prueba/Started=@1395636968936
+Proyecto de Prueba/node==TAG
+Proyecto de Prueba1/new/Time==0.0
+Proyecto de Prueba1/new/leaf==TAG
+Proyecto de Prueba1/new/node==TAG
+Proyecto de Prueba1/node==TAG
+Task-Schedule/templateTaskCalendar/Planned Hours=="@13955508000001200.0@1396155600000
+Task-Schedule/templateTaskCalendar/Task List ID="vvz55g.ht4f9087
+Task-Schedule/templateTaskCalendar/Task_List_Metadata="#task list metadata\r\n#Sun Mar 23 09:30:00 COT 2014\r\nRezero_On_Start_Date=false\r\nTimezone=America/Bogota\r\n
+new/Time==0.0
+new/leaf==TAG
+new/node==TAG
+reuniones de equipo/Started=@1395700915169
+reuniones de equipo/node==TAG
+reuniones de equipo/reunion plan/Started=@1395700915169
+reuniones de equipo/reunion plan/Time==106.0
+reuniones de equipo/reunion plan/leaf==TAG
+reuniones de equipo/reunion plan/node==TAG

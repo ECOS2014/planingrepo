@@ -1,0 +1,10 @@
+#include <psp2.1/dataFile.txt>
+= Data for /Proyecto de Prueba/Legacy/Product1/SCR 42
+Base_Parts_List=="0
+New_Objects_List=="01234
+Planning/Defects Injected==1.0
+Planning/Defects Removed==1.0
+Planning/Started=@1395636968936
+Planning/Time==594.0
+Reused_Objects_List=="0123
+Started=@1395636968936
