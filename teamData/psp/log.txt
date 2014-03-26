@@ -1,0 +1,38 @@
+Process Dashboard - logging started at Wed Mar 26 10:21:01 COT 2014
+Oracle Corporation JRE 1.8.0-ea; Windows 7
+Using LocalWorkingDirectory[C:\Users\IngDesarrollo\Documents\GitHub\planingrepo\teamData\psp]
+Created default translation engine.
+mar 26, 2014 10:21:03 AM net.sourceforge.processdash.ProcessDashboard <init>
+Información: Process Dashboard version 2.0
+mar 26, 2014 10:21:04 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnContext createContextImpl
+Información: Creating TPIDW database
+mar 26, 2014 10:21:08 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnContext createContextImpl
+Información: TPIDW database created
+mar 26, 2014 10:21:09 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
+Información: Refreshed database with project data (took 136 ms)
+mar 26, 2014 10:23:04 AM net.sourceforge.processdash.ProcessDashboard quit
+Información: Successfully saved all data.
+java.io.FileNotFoundException: \Users\CarlosRoa\Documents\Documents\Process Dashboard\https:\github.com\ECOS2014\proyectotsp.git\data\ht5x5427\disseminate\team-data.pdash
+	at net.sourceforge.processdash.tool.export.impl.ExportFileStream.validateTarget(ExportFileStream.java:139)
+	at net.sourceforge.processdash.tool.export.impl.ExportFileStream.getOutputStream(ExportFileStream.java:90)
+	at net.sourceforge.processdash.tool.export.impl.ArchiveMetricsFileExporter.doExport(ArchiveMetricsFileExporter.java:153)
+	at net.sourceforge.processdash.tool.export.impl.ArchiveMetricsFileExporter.run(ArchiveMetricsFileExporter.java:139)
+	at net.sourceforge.processdash.tool.export.mgr.ExportManager$ExportTask.run(ExportManager.java:468)
+	at net.sourceforge.processdash.tool.export.mgr.ExportManager.exportAll(ExportManager.java:274)
+	at net.sourceforge.processdash.ProcessDashboard.quit(ProcessDashboard.java:1639)
+	at net.sourceforge.processdash.ProcessDashboard.exitProgramImpl(ProcessDashboard.java:1582)
+	at net.sourceforge.processdash.ProcessDashboard.access$700(ProcessDashboard.java:182)
+	at net.sourceforge.processdash.ProcessDashboard$5.run(ProcessDashboard.java:1568)
+java.io.FileNotFoundException: \Users\CarlosRoa\Documents\Documents\Process Dashboard\data\ht77arzq\disseminate\team-data.pdash
+	at net.sourceforge.processdash.tool.export.impl.ExportFileStream.validateTarget(ExportFileStream.java:139)
+	at net.sourceforge.processdash.tool.export.impl.ExportFileStream.getOutputStream(ExportFileStream.java:90)
+	at net.sourceforge.processdash.tool.export.impl.ArchiveMetricsFileExporter.doExport(ArchiveMetricsFileExporter.java:153)
+	at net.sourceforge.processdash.tool.export.impl.ArchiveMetricsFileExporter.run(ArchiveMetricsFileExporter.java:139)
+	at net.sourceforge.processdash.tool.export.mgr.ExportManager$ExportTask.run(ExportManager.java:468)
+	at net.sourceforge.processdash.tool.export.mgr.ExportManager.exportAll(ExportManager.java:274)
+	at net.sourceforge.processdash.ProcessDashboard.quit(ProcessDashboard.java:1639)
+	at net.sourceforge.processdash.ProcessDashboard.exitProgramImpl(ProcessDashboard.java:1582)
+	at net.sourceforge.processdash.ProcessDashboard.access$700(ProcessDashboard.java:182)
+	at net.sourceforge.processdash.ProcessDashboard$5.run(ProcessDashboard.java:1568)
+Completed user-scheduled data export.
+Saved C:\Users\IngDesarrollo\Documents\GitHub\planingrepo\teamData\psp\global.dat
